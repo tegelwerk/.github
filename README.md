@@ -20,7 +20,7 @@ Tegelwerk is an early-stage reference implementation. It is not hardened for pro
 
 ### LAMBDA
 
-Tegelwerk is developed within **LAMBDA**, the Lakehouse-enabled AI-ready Multimodal Bioimaging Data Architecture, supported by the U.S. Department of Energy's Biological and Environmental Research (BER) program.
+Tegelwerk is developed within **LAMBDA**, the Lakehouse-enabled super-intelligence-reAdy Multimodal Bioimaging Data Architecture, supported by the U.S. Department of Energy's Biological and Environmental Research (BER) program.
 
 - Project website: [lambda-doe.org](https://lambda-doe.org)
 - Schemas and tools on GitHub: [github.com/lambda-ber](https://github.com/lambda-ber)
